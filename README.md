@@ -23,3 +23,8 @@
 ### Пятая лаба: CI/CD
 
 [Отчет](reports/Пятая%20лаба.pdf)
+
+#
+
+По всем вопросам пишите в тг (в профиле)\
+For all questions, write in telegram (in profile)
